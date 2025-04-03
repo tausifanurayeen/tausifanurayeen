@@ -17,6 +17,6 @@ Currently focusing on **Software Quality Assurance (SQA)** to build reliable and
 ### 🤝 Let’s Connect!  
 - 📧 Email: [tausifanurayeen664@gmail.com](mailto:tausifanurayeen664@gmail.com)  
 - 💬 Feel free to reach out for collaboration or just to chat about tech!  
-- 🌐 LinkedIn: [Ummay Tausifa Nurayeen Bhuiyan]([https://www.linkedin.com](https://www.linkedin.com/in/tausifa-nurayeen/))  
+- 🌐 LinkedIn: [Ummay Tausifa Nurayeen Bhuiyan](https://www.linkedin.com/in/tausifa-nurayeen/)  
 
 ⚡ **Fun Fact:** I believe in continuous learning and love exploring innovative software testing methods!  
